@@ -3,7 +3,7 @@ ofxGalleryGrid
 
 Introduction
 ------------
-A UI addon to display items in a responsive gallery grid like with editable layout configurations and default pagination. 
+An openframeworks UI addon to display items in a responsive gallery grid like with editable layout configurations and default pagination. 
 
 <img src="https://i.gyazo.com/f3732bd46af14d12fdac2d46d79f3df3.jpg" alt="img" style="zoom: 80%;" />
 
