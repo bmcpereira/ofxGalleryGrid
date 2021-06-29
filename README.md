@@ -21,7 +21,7 @@ A UI addon to display items in a responsive gallery grid like with editable layo
 |    pMarginTop     | Margin top screen percentage for the whole grid.         |     0.15f     |
 |     itemWidth     | Default width (px) of each grid item.                    |      150      |
 |    itemHeight     | Default height (px) of each grid item.                   |      150      |
-|    currentPage    | Gallery current page                                     |               |
+|    currentPage    | Gallery current page                                     |       1       |
 
 
 
